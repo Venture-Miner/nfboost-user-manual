@@ -9,7 +9,7 @@ const config = {
   title: 'NFBoost User Manual',
   tagline: 'Dinosaurs are cool',
   url: 'https://venture-miner.github.io',
-  baseUrl: '/nfboost-manual/',
+  baseUrl: '/nfboost-user-manual/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Venture-Miner', // Usually your GitHub org/user name.
-  projectName: 'nfboost-manual', // Usually your repo name.
+  projectName: 'nfboost-user-manual', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://venture-miner.github.io/nfboost-manual',
+            'https://venture-miner.github.io/nfboost-user-manual',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -63,7 +63,7 @@ const config = {
             label: 'NFBoost Manual',
           },
           {
-            href: 'https://github.com/Venture-Miner/nfboost-backoffice-manual',
+            href: 'https://github.com/Venture-Miner/nfboost-user-manual',
             label: 'GitHub',
             position: 'right',
           },
