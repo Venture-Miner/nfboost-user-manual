@@ -10,6 +10,7 @@ First, to be able to access any functionality of NFboost, you need to authentica
 
 There are four types of packs to buy in the game: Starter, Advanced, Professional and SuperStar. If the user does not wish, there is the option to play games for free, without the need to buy in-game packages.
 In the free package, the user does not win any tickets, but that does not mean that he will not be able to participate in the event.
+
 In paid packages, prices vary according to the number of tickets available in each package.
 
 ## RULE 02: PARTICIPATING IN EVENTS
