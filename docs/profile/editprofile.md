@@ -8,13 +8,13 @@ Above the profile cover there will be a profile editing button, this means that 
 
 ![1](./../assets/novatelaeditarperfil.png)
 
-The user can keep his profile information private or public, just click on the “Public” option in the right corner just below the profile to activate or deactivate it.
+The user can keep their profile information private or public, just click on the “Public” option in the right corner below the profile to activate or deactivate it.
 
 Editing the user's favorite sports is also done on this screen.
 
 ![1](./../assets/novatelaeditarsports.png)
 
-By clicking on the "All Sports" button, the user will be redirected to a screen from which he will have the option of choosing to remove or add a sport. The sport privacy option is at the discretion of the user.
+By clicking on the "All Sports" button, the user will be redirected to a screen from which they will have the option of choosing to remove or add a sport. The sport privacy option is at the discretion of the user.
 
 ![1](./../assets/favoritesports.png)
 

@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # CONNECT WALLET
 
-If the user has a MetaMask wallet, they can import it to the NFboost website. Just click on the option of “Connect with MetaMask”. Click on the “Connect and agree” option.
+If the user has a MetaMask wallet, they can import it to the NFboost website. Just click the option of “Connect with MetaMask”. After click on the “Connect and agree” option.
 
 ![1](./../assets/meta.png)
 
@@ -12,7 +12,7 @@ If the user has a MetaMask extension installed in the browser, a pop-up screen w
 
 ![1](./../assets/meta-mask.png)
 
-After entering the password in MetaMask, the account will be connected. When connecting to the wallet, if the user has an NFT, a screen will be displayed with all the NFT items connected to the wallet.
+After entering the password in MetaMask, the account will be connected. When connecting to the wallet, if the user has an NFT, a screen will be displayed with all the NFT items connected in the wallet.
 
 ![1](./../assets/printoficialtelanft.png)
 

@@ -12,6 +12,6 @@ After choosing the players to participate in the event, the user will not be abl
 
 ![1](./../assets/salvarnovotime.png)
 
-The only permission that the user will have will be to equip or not his players with the items he bought in the market, if they chose to enter the event in a paid way.
+The only permission that the user will have to equip or not their players with the items they bought in the market, if they choose to enter the event in a paid way.
 
 ![1](./../assets/vertimemontado.png)
