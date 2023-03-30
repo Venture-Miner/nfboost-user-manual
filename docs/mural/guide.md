@@ -6,7 +6,7 @@ sidebar_position: 2
 
 - Events: Displays active events on the site.
 
-- Search events: search for events on the site through the search bar.
+- Search Events: search for events on the site through the search bar.
 
 - Ranking: Displays the ranking of all events that the user is participating in and their individual ranking.
 
