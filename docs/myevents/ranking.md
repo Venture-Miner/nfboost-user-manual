@@ -8,15 +8,15 @@ Participating in a certain event, that event can have numerous rounds with the r
 
 ![1](./../assets/detalheeventonovo.png)
 
-In the “Details” button, it displays a modal with the details of the players in the round.
+In the “Details” button, it displays a screen with details of the players in the round.
 
 ![1](./../assets/fotoparticipantevento.png)
 
-By clicking on a specific player, the user will obtain some information about the competitor who participates or participated in the same event as him. Information such as event score, rounds played, average score, are some of the details that the user will have.
+By clicking on a specific player, the user will obtain some information about the competitor who participates or participated in the same event as them. Information such as event score, rounds played, average score, are some of the details that the user will have.
 
 ![1](./../assets/newscreendetails.png)
 
-The “Ranking” button next to the “Details” button displays a modal with the ranking of users who are participating in the event at that moment.
+The “Ranking” button next to the “Details” button displays a screen with the ranking of users who are participating in the event at the moment.
 
 ![1](./../assets/round01novo.png)
 

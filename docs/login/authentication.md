@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # AUTHENTICATION
 
-Before the user can browse the site, he needs to authenticate the account with a 6-digit code that was sent to the email or cell phone, from which he registered on the site.
+Before the user can browse the site, they need to authenticate the account with a six-digit code that were sent to the email or cell phone, from which were registered on the site.
 
 ![1](./../assets/novaautenticação.png)
 
