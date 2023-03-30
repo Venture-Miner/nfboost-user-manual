@@ -14,6 +14,6 @@ If the user has a MetaMask extension installed in the browser, a pop-up screen w
 
 After entering the password in MetaMask, the account will be connected. When connecting to the wallet, if the user has an NFT, a screen will be displayed with all the NFT items connected to the wallet.
 
-![1](./../assets/testando.png)
+![1](./../assets/printoficialtelanft.png)
 
 After that, the NFTs will be available for viewing in "My Profile" and "My Items" screen.
