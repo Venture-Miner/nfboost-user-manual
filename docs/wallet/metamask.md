@@ -12,7 +12,7 @@ If the user has a MetaMask extension installed in the browser, a pop-up screen w
 
 ![1](./../assets/meta-mask.png)
 
-After entering the password in MetaMask, the account will be connected. When connecting to the wallet, if the user has an NFT, a screen will be displayed with all the NFT items connected in the wallet.
+After entering the password in MetaMask, the account will be connected. When connecting the wallet, if the user has an NFT, a screen will be displayed with all the NFT items connected in the wallet.
 
 ![1](./../assets/printoficialtelanft.png)
 
