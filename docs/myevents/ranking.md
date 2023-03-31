@@ -28,4 +28,4 @@ At the end of each round, an “Official Results” screen will be available wit
 
 ![1](./../assets/fototerceirarodada.png)
 
-The score of all rounds that have taken place so far can be displayed to the user in the "General Ranking" menu.
+The score of all rounds that have taken place so far can be displayed to the user in "General Ranking" menu.
