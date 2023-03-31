@@ -12,4 +12,4 @@ If the user has a wallet connected to the account, a screen with details for the
 
 ![1](./../assets/comprandoitennft.png)
 
-After purchasing the NFT, it will be visible in the "My Items" menu.
+After purchasing the NFT, it will be visible in "My Items" menu.

@@ -16,6 +16,6 @@ The user can participate in as many events as they want, entering for free or pa
 
 Participating for free, the user will not receive any medal at the end of each round. Medals are “credits” to buy items in the market to equip your team and get extra scores in events. These credits are earned based on the team's score in each round.
 
-If the user chooses to participate in a paid way, they will spend 10 tickets from the total available for the purchase of the packages they chose in the "My tickets" menu, in addition to, at the end of each round, winning medals based on the round score.
+If the user chooses to participate in a paid way, they will spend ten tickets from the total available for the purchase of the packages they chose in the "My tickets" menu, in addition to, at the end of each round, winning medals based on the round score.
 
 ![1](./../assets/pagarevento.png)

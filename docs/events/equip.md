@@ -6,7 +6,7 @@ sidebar_position: 3
 
 After editing the team, the user will be able to equip players on their team with NFTs or Items that were purchased on the “Marketplace” screen.
 
-To do this, the user just clicks on the slot corresponding to the player and decides whether to equip an NFT or Item. It will then be redirected to a screen to equip.
+To do this, the user just clicks the slot corresponding to the player and decides whether to equip an NFT or Item. It will then be redirected to a screen to equip.
 
 ![1](./../assets/itensequipartime.png)
 
