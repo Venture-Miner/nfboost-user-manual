@@ -10,7 +10,7 @@ sidebar_position: 2
 
 - Ranking: Displays the ranking of all events that the user is participating in and their individual ranking.
 
-- Marketplace: Place for purchasing items through NFTs or medals that the user won in the round during events in which they are participating. Medals are only earned if the user participates in a paid event.
+- Marketplace: Place to purchase items through medals that the user won in the round during the events in which they are participating and NFTs if the user have a wallet connected to NFboost. Medals are only earned if the user participates in a paid event.
 
 - My Items: Displays the items and quantity of each to equip in the user's event team.
 
