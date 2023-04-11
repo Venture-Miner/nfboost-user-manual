@@ -12,6 +12,6 @@ This modal can be displayed in different parts of the application on the NFboost
 
 - Edit profile page
 
-- Select items to equip nft
+- Select items to equip NFT
 
 - Wallet connection on platform
