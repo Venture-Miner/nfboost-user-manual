@@ -6,7 +6,8 @@ sidebar_position: 1
 
 In the left corner of the screen will be the Marketplace button. In this environment, items and NFTs will be available for the user to equip the team and generate extra scores in the events that they are participating or want to participate in.
 
-Each item, or NFT, has a different cost, durability, or score bonus.
+- Iten: Each item, has a different cost, durability, or score bonus.
+- NFT: Each NFT, has a different cost or score bonus.
 
 ![1](./../assets/mercadoloja.png)
 
