@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # FAVORITE SPORTS
 
-After creating the account, the user will be redirected to a page to choose their favorite sports among several options available on the site, which he can change whenever themselves wants. Once this is done, just click “Save” button.
+After creating the account, the user will be redirected to a page to choose their favorite sports among several options available on the site, which they can change whenever themselves want. Once this is done, just click “Save” button.
 
 ![1](./../assets//favoritesports.png)
 
