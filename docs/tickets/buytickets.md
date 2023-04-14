@@ -10,4 +10,4 @@ If the user wants to buy a starter package with 100 tickets, for example, as soo
 
 With this, the user will enter the card data and confirm the purchase.
 
-After confirming the purchase, they will be redirected to the home screen, with the purchased package already added to the “My Tickets” menu.
+After confirming the purchase, they will be redirected to the home screen, with the purchased package already added to “My Tickets” menu.
