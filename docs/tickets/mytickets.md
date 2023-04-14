@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # MY TICKETS
 
-On the home screen, “My Tickets” tab there is, the number of tickets that the user has on the platform will be available.
+In the home screen, “My Tickets” tab there is the number of tickets that the user has on the platform will be available.
 
 The user will be able to buy as many packages of tickets as they want based on the packages available for purchase.
 
